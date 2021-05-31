@@ -35,7 +35,7 @@ None! Muon is header-only, so simply include it in your project.
 #include <Muon/Muon.h>
 ```
 
-To build Muon with CMake, read through the [CMake Quickstart Guide](https://github.com/jasmcaus/Muon/blob/dev/docs/CMake-quickstart.md).
+To build Muon with CMake, read through the [CMake Quickstart Guide](https://github.com/jasmcaus/Muon/blob/dev/docs/cmake-quickstart.md).
 
 
 ## Basic Concepts
